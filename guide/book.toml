@@ -1,0 +1,6 @@
+[book]
+authors = ["g302ge"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Tezos Smartpy Contract Bool For Newbee"
